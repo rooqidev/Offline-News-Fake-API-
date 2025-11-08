@@ -4,5 +4,5 @@ i built General News Application that fetches a news from an Api related to the 
 
 Thats the offline version of that application, i can't original one due to some reasons,..
 
-Live url:
-repo: 
+Live url: https://rooqidev.github.io/Offline-News-Fake-API-/
+repo: https://github.com/rooqidev/Offline-News-Fake-API-
