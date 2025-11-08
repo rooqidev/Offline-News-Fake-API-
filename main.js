@@ -1,4 +1,4 @@
-import { mockNewsData } from '/offlineData.js';
+import { mockNewsData } from './offlineData.js';
 const availableQueries = [
   "technology", "sports", "business", "health", "science", "entertainment",
   "education", "politics", "travel", "environment"
